@@ -1,0 +1,4 @@
+See file:///Users/mho/IdeaProjects/HelloWorld/cppproject/build/tmp/compileHelloExecutableHelloCpp/output.txt for all output for compileHelloExecutableHelloCpp.
+compiling hello.cpp successful.
+
+Finished compileHelloExecutableHelloCpp, see full log file:///Users/mho/IdeaProjects/HelloWorld/cppproject/build/tmp/compileHelloExecutableHelloCpp/output.txt.

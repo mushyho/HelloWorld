@@ -1,0 +1,4 @@
+-o
+/Users/mho/IdeaProjects/HelloWorld/cppproject/build/binaries/helloExecutable/hello
+/Users/mho/IdeaProjects/HelloWorld/cppproject/build/objs/helloExecutable/helloCpp/td7t9xi97da0rpxwlzkg8oeu/hello.o
+-m64

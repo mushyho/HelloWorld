@@ -1,0 +1,6 @@
+-x
+c++
+-c
+-I
+/Users/mho/IdeaProjects/HelloWorld/cppproject/src/hello/headers
+-m64

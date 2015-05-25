@@ -1,0 +1,4 @@
+See file:///Users/mho/IdeaProjects/HelloWorld/cppproject/build/tmp/linkHelloExecutable/output.txt for all output for linkHelloExecutable.
+linking hello successful.
+
+Finished linkHelloExecutable, see full log file:///Users/mho/IdeaProjects/HelloWorld/cppproject/build/tmp/linkHelloExecutable/output.txt.

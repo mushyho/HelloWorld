@@ -1,0 +1,16 @@
+apply plugin: 'cpp'
+
+model {
+  components {
+    hello(NativeExecutableSpec) {
+      sources {
+        cpp {
+          source {
+            srcDir "src/hello"
+            include "**/*.cpp"
+          }
+        }
+      }
+    }
+  }
+}
